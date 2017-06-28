@@ -14,3 +14,5 @@ In the early days of RMS, we needed a way of emphasising these different aspects
 	* Interpretation and write-up
 	* Data storage and access
 	* Dissemination and feedback to data originators
+
+Edited to check auto-update
