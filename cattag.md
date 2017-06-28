@@ -1,5 +1,5 @@
 ---
-post_title: 'Post Title'
+post_title: 'Post For cat'
 layout: post_type_probably_post
 published: true_or_false
 categories: node-js this-cat something
