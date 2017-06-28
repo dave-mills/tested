@@ -1,0 +1,16 @@
+---
+post_title: 'I hope this works for it is my last try this evening'
+layout: post
+published: true
+tags: 
+ - tag1
+ - tag2
+ - tag3
+categories: 
+ - node-js
+ - a_new_cat
+---
+
+#This post is going to be great.
+
+Because it's tagged. 
