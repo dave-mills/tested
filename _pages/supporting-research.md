@@ -10,6 +10,8 @@ permalink: >
 published: true
 U_S_C_message:
   - 'a:1:{i:0;s:0:"";}'
+tags: [ ]
+categories: [ ]
 ---
 [et_pb_section bb_built="1" admin_label="section" transparent_background="on" allow_player_pause="off" inner_shadow="off" parallax="off" parallax_method="on" make_fullwidth="off" use_custom_width="off" width_unit="on" custom_width_px="1080" custom_width_percent="80" make_equal="off" use_custom_gutter="off"][et_pb_row admin_label="Row" custom_width_percent="80" parallax_method_1="off" parallax_method_2="off" make_fullwidth="off" use_custom_width="off" width_unit="on" custom_width_px="1080" use_custom_gutter="off" allow_player_pause="off" parallax="off" parallax_method="on" make_equal="off" parallax_1="off" parallax_2="off"][et_pb_column type="1_2"][et_pb_image admin_label="Image" src="https://dev.stats4sd.org/wp-content/uploads/2017/03/CCRP-logo.jpg" animation="off" show_in_lightbox="off" url_new_window="off" use_overlay="off" sticky="off" align="left" force_fullwidth="off" always_center_on_mobile="on" use_border_color="off" border_color="#ffffff" border_width="1" border_style="solid" custom_margin="40px|50px|30px|50px"] [/et_pb_image][/et_pb_column][et_pb_column type="1_2"][et_pb_text admin_label="Text" header_font_size="30" header_letter_spacing="0" header_line_height="1" text_letter_spacing="0" text_line_height="1.7" background_layout="light" text_orientation="left" use_border_color="off" border_color="#ffffff" border_width="1" border_style="solid" custom_padding="40px|||"]
 

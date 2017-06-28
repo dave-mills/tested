@@ -7,5 +7,7 @@ post_excerpt: ""
 layout: page
 permalink: https://dev.stats4sd.org/knowledge-base/
 published: true
+tags: [ ]
+categories: [ ]
 ---
 [epkb-knowledge-base id=1]

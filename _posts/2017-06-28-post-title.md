@@ -7,6 +7,9 @@ post_excerpt: ""
 layout: post
 permalink: https://dev.stats4sd.org/post-title/
 published: true
+tags: [ ]
+categories:
+  - Uncategorized
 ---
 # Post Title
 

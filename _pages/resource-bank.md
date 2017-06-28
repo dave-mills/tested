@@ -10,6 +10,8 @@ permalink: >
 published: true
 U_S_C_message:
   - 'a:1:{i:0;s:0:"";}'
+tags: [ ]
+categories: [ ]
 ---
 [et_pb_section bb_built="1" admin_label="Section" transparent_background="on"][et_pb_row admin_label="Row" custom_width_percent="80" custom_padding="62px|0px|26.4375px|0px" parallax_method_1="off" parallax_method_2="off"][et_pb_column type="1_2"][et_pb_image admin_label="Image" src="https://dev.stats4sd.org/wp-content/uploads/2017/02/redmouse.jpg" animation="off" custom_margin="15px|50px|30px|50px"] [/et_pb_image][/et_pb_column][et_pb_column type="1_2"][et_pb_text admin_label="Text" header_font_size="30" header_letter_spacing="0" header_line_height="1" text_letter_spacing="0" text_line_height="1.7" custom_margin="15px|||"]
 
