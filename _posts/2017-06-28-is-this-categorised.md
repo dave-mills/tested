@@ -9,8 +9,8 @@ permalink: >
   https://dev.stats4sd.org/is-this-categorised/
 published: true
 category:
-  - 'a:1:{i:0;s:24:"a:1:{i:0;s:7:"node-js";}";}'
----
+  - 'a:1:{i:0;s:7:"node-js";}'
+---a
 # ONE MORE TIME
 
 one more time, that this is interesting to make some changes on github
