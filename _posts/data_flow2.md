@@ -5,8 +5,13 @@ post_excerpt: ""
 layout: post
 published: true
 post_date: 2017-07-11 10:39
-tags: ["data management" "project planning" "concept" "data loops"]
-categories: ["data flow"]
+tags:
+  - data management
+  - project planning
+  - concept
+  - data loops
+categories:
+  - data flow
 ---
 # Data Flow II - Changing the diagram
 
