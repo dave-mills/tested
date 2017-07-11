@@ -7,9 +7,9 @@ layout: post
 permalink: https://dev.stats4sd.org/?p=1825
 published: false
 tags:
-  - >
-    data management" "project planning"
-    "concept
+  - data management
+  - project planning
+  - concept
 categories:
   - data flow
 ---
