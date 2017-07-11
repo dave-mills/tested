@@ -4,12 +4,14 @@ post_title: Rethinking the Data Flow Diagram
 author: Dave Mills
 post_excerpt: ""
 layout: post
-permalink: https://dev.stats4sd.org/?p=1825
-published: false
+permalink: >
+  https://dev.stats4sd.org/rethinking-the-data-flow-diagram/
+published: true
+post_date: 2017-07-11 10:39:00
 tags:
+  - concept
   - data management
   - project planning
-  - concept
 categories:
   - data flow
 ---
