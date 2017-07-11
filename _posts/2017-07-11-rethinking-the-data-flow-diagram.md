@@ -54,4 +54,4 @@ Of course, the new technologies open new possibilities. Many things are now much
 
 I’m not hoping to answer any of these questions here - not yet. This is more of a statement of intent. Our goal is to try and answer some of these questions over the next couple of years, update some of our old resources and create some new ones around the idea of Data Flow. I think the journey will be an interesting one, and I hope to be able to document some of it here.
 
- [1]: wp-content/uploads/2017/07/A16611C3-E00F-4941-8344-460E37CC3FDD.png
+ [1]: ../wp-content/uploads/2017/07/A16611C3-E00F-4941-8344-460E37CC3FDD.png
