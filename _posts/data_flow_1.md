@@ -1,6 +1,5 @@
 ---
-ID: 1817
-post_title: Stats4SD Blog
+post_title: Rethinking the Data Flow Diagram
 author: admin
 post_excerpt: ""
 layout: post
@@ -10,7 +9,6 @@ tags: ["data management" "project planning" "concept"]
 categories: ["data flow"]
 ---
 
-# Data Flow:
 Since the beginning of Research Methods Support project, we have been using the term “Data Flow” to encompass our view on how data should be considered.  Data is vital to a research project - it’s the raw material that you collect and explore to discover information needed to fulfil your research objectives.  Yet, we regularly encounter projects where the researchers don’t really think about data until they’re about to go and collect some.
 
 When we say “Data Flow”, we don’t just mean the flow of actual data through the stages of your project, we mean the _thinking_ about data throughout the project.  This is an important distinction, because it means “Data Flow” starts at the very beginning of the project, instead of part-way through after most of the planning is complete.
